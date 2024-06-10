@@ -1,0 +1,6 @@
+com\test\testdocker\controller\UserController.class
+com\test\testdocker\repository\UserRepository.class
+com\test\testdocker\controller\dto\PostUserDto.class
+com\test\testdocker\entities\User.class
+com\test\testdocker\service\UserService.class
+com\test\testdocker\TestDockerApplication.class
